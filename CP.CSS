@@ -1,0 +1,67 @@
+body 
+{
+	background-color:white;
+}
+DIV.mid
+
+{
+	position: fixed;
+	right: 65%;
+	top: 20%;
+	width: 20%;
+	height:900px;
+	padding:15px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+DIV.left
+
+{
+	float: left;
+	width: 32.6%;
+	height: 1500px;
+	padding:15px;
+	margin-left:auto;
+	margin-right:auto;
+	background: url(cl.png);
+	background-size: 100% 100%;
+}
+
+Div.right
+
+{
+	float: right;
+	width: 63.6%;
+	height:100%;
+	border-left: dotted;
+	padding:15px;
+	background-color:#CCCCCC;
+    word-wrap: break-word; 
+}
+
+DIV.top
+
+{
+	position: fixed;
+	margin-top: -10px;
+	height:40px;
+	width: 100%;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding: 15px;
+	background-color:black;
+}
+
+
+P.hop 
+
+{
+	font-size: 15px;
+	color:red;
+}
+
+.huge 
+{
+	font-size: 200px;
+}
